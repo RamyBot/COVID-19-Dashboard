@@ -6,4 +6,4 @@ The data is scrapped from Wikipedia and automatically updated twice a day.
 
 Link: https://public.tableau.com/profile/venkatesh.chandra7408#!/vizhome/CanadaCOVID-19Monitor/Situation
 
-[]!(Capture.PNG)
+
