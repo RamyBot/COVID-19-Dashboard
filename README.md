@@ -1,8 +1,8 @@
 # COVID-19-Dashboard
 
-The aim of this project is to create an interactive dashboard on Tableau that would track COVID-19 cases in Canada at a provincial level.
+The aim of this project is to create an interactive dashboard on Tableau that would track COVID-19 cases in Quebec at a neighborhood level.
 
-The data is scrapped from Wikipedia and the dashboard is automatically updated twice a day.
+The website has attracted +90k viewers and has been featured on Montreal Gazette and Global City News Channel.
 
-Link: https://public.tableau.com/profile/venkatesh.chandra7408#!/vizhome/CanadaCOVID-19Monitor/Situation
+Link: covidqc.com
 
